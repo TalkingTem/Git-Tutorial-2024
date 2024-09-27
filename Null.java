@@ -4,5 +4,5 @@ public  class Null {
     }
     
 }
-//git init(initialze)
+//git init(initialze).
 //git add -> gets us to staging area -> git commit -m "description"
